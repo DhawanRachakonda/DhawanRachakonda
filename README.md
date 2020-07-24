@@ -1,5 +1,5 @@
 ### Hi there, I am Dhawan Rachakonda 👋
-<a href="https://twitter.com/the1rachakonda">
+<br/><a href="https://twitter.com/the1rachakonda">
   <img align="left" alt="Dhawan Rachakonda | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
@@ -36,6 +36,7 @@ I also work as a free lancer by helping students(USA, AUstralia, Ireland) to fin
 <li>LDAP</li>
 <li>JWT</li>
 </ol>
+
 ## Working
 Honeywell Technology Solutions                     -  
 Hyderabad,
