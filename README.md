@@ -2,7 +2,7 @@
 <a href="https://twitter.com/the1rachakonda">
   <img align="left" alt="Dhawan Rachakonda | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
+<br/>
 
 ## Summary
 I have been involved in core application development for the past 5 years 6 months working in technologies which my company needed, and shown some amaizing profits for my company by improving customer experience drastically. I was very flexible with the technologies which my company needed.
@@ -10,7 +10,7 @@ I also took sessions for my company for making thier employees progress technica
 I also work as a free lancer by helping students(USA, AUstralia, Ireland) to finish thier academics and transfer the right knowledge.
 
 ## Skills
-<strong>Full Stack Developer</string>
+<strong>Full Stack Developer</strong>
 
 ## Working
 Honeywell Technology Solutions                     -  
