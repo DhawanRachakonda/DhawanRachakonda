@@ -15,12 +15,12 @@ I also work as a free lancer by helping students(USA, AUstralia, Ireland) to fin
 ## Working
 Honeywell Technology Solutions                     -  
 Hyderabad,
-Telangana.
+Telangana.<br/>
 I work for EOM project in HCE. I have worked for 2 projects(BA Dashboard, ASDS Checkout), as a full stack Developer. My main responsibilities were:
 <ul>
 <li>Developing react based UI screens.</li>
 <li>Setting up UT framework and helping team to speed up writing UTs and developing React based UI screens </li>
 <li>Helping team in writing rest controllers in Nodejs </li>
-<li>I was a core contributer for BA Dashboard project development, which was completed withing 3 months. </li>
+<li>I was a core contributer for BA Dashboard(Aviation) project development, which was completed withing 3 months. </li>
 <li>Designed an <storng>app for COVID, which was respresented by Honeywell and shown it to Government of INDIA</strong></li>
 </ul>
