@@ -13,9 +13,7 @@ I also work as a free lancer by helping students(USA, AUstralia, Ireland) to fin
 <strong>Full Stack Developer</strong>
 
 ## Working
-Honeywell Technology Solutions                     -  
-Hyderabad,
-Telangana.<br/>
+Honeywell Technology Solutions<br/>
 I work for EOM project in HCE. I have worked for 2 projects(BA Dashboard, ASDS Checkout), as a full stack Developer. My main responsibilities were:
 <ul>
 <li>Developing react based UI screens.</li>
